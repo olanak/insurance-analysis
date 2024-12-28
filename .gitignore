@@ -1,4 +1,5 @@
-/data
+data/raw/MachineLearningRating_v3.txt
+!data/raw/MachineLearningRating_v3.txt.dvc
 /venv
 .dvc/
 .ipynb_checkpoints/
