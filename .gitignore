@@ -1,6 +1,4 @@
-data/raw/MachineLearningRating_v3.txt
-!data/raw/MachineLearningRating_v3.txt.dvc
+/data/prcessed/processed_data_with_dates.csv
+/data/raw/MachineLearningRating_v3.txt
 /venv
-.dvc/
-.ipynb_checkpoints/
-__pycache__/
+/data
